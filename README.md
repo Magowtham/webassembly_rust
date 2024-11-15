@@ -37,16 +37,16 @@ WebAssembly is a portable binary instruction format that allows code written in 
 
 ### Compiling High-Level Code to Specific Targets
 
-![Compiling to Specific Targets](https://github.com/Magowtham/webassembly_rust/assets/image1.png)
+![Compiling to Specific Targets](https://github.com/Magowtham/webassembly_rust/blob/main/assets/image1.png)
 
 ### Running the Compiled Binary on Different OS and Architecture-Based Machines
 
-![Running Binary on Different Platforms](https://github.com/Magowtham/webassembly_rust/assets/image2.png)
+![Running Binary on Different Platforms](https://github.com/Magowtham/webassembly_rust/blob/main/assets/image2.png)
 
 ### Compiling High-Level Code to a Single WebAssembly Target
 
-![Compiling to WebAssembly](https://github.com/Magowtham/webassembly_rust/assets/image3.png)
+![Compiling to WebAssembly](https://github.com/Magowtham/webassembly_rust/blob/main/assets/image3.png)
 
 ### Running Compiled WebAssembly Module on Different OS and Processor Architectures (Supports WebAssembly Runtime)
 
-![Running WebAssembly Module](https://github.com/Magowtham/webassembly_rust/assets/image4.png)
+![Running WebAssembly Module](https://github.com/Magowtham/webassembly_rust/blob/main/assets/image4.png)
